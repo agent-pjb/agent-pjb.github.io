@@ -535,7 +535,7 @@ const APPS = {
     h: 400,
     run: terminal,
   },
-  files: { t: "Files", i: "▤", c: "#3DAEE9", w: 640, h: 440, run: files },
+  files: { t: "My Works", i: "▤", c: "#3DAEE9", w: 640, h: 440, run: files },
   about: { t: "About me", i: "i", c: "#F6A845", w: 440, h: 380, run: about },
 };
 
